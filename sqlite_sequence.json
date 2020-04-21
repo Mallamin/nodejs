@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Addresses",
+        "seq": 3
+    },
+    {
+        "name": "PersonAddresses",
+        "seq": 2
+    },
+    {
+        "name": "People",
+        "seq": 2
+    }
+]
